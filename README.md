@@ -1,1 +1,1 @@
-# e-book-automation
+# Automatic E-Book Generation Bot
