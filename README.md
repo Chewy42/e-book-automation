@@ -45,7 +45,7 @@
 # Risk Register
 | Risk / Description  | Likelihood | Severity | Trigger Event | Type | Mitigation|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
+| Authenticity | Even though the content is good, its written by AI | LOW | TEMP | TEMP | TEMP |
 | TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
 | TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
 | TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
