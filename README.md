@@ -46,7 +46,7 @@
 | Risk / Description  | Likelihood | Severity | Trigger Event | Type | Mitigation|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Authenticity | Even though the content is good, its written by AI | LOW | TEMP | TEMP | TEMP |
-| TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
+| Constant Charges | HIGH | HIGH | API Requests in loops or budget maxed out | MITIGATE | Set a max amount of iterations for each loop |
 | TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
 | TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
 | TEMP | TEMP | TEMP | TEMP | TEMP | TEMP |
