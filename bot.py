@@ -41,3 +41,4 @@ class Bot():
 
 
 if __name__ == "__main__":
+    #TODO: instantiate bot class and run loops
